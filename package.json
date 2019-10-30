@@ -1,0 +1,21 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "fs": "0.0.1-security",
+    "graphql": "^14.5.8",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.0",
+    "node": "^12.13.0",
+    "sequelize": "^5.21.1"
+  }
+}
