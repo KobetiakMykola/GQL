@@ -4,6 +4,8 @@
 #### start sever
      node app.js
      
+     http://localhost:3000/graphql
+     
 #### test Graphql
     
 ##### get all books
